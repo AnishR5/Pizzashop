@@ -1,0 +1,27 @@
+1.	Order
+	•	Orderid
+	•	Orderdate
+	•	Amount
+	•	Status
+2.	Veg Pizza
+	•	VPid
+	•	VPname
+	•	VPrice
+3.	Non VegPizza
+	•	NVid
+	•	NPname
+	•	NPrice
+4.	Add-ons
+	•	IngId
+	•	Ingname
+	•	IngPrice
+5.	Customer
+	•	cid
+	•	cname
+	•	address
+	•	mob
+	•	email
+6.	Employee
+	•	Eid
+	•	Ename
+

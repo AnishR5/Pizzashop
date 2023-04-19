@@ -1,0 +1,11 @@
+1)User registration
+2)user Authantication
+3)Create Catelogue
+4)Create Menu
+5)create cart
+6)Order Processing
+7)Payment Gateway
+8)Delivery tracking(Maps Api)
+9)Customer Support
+
+
