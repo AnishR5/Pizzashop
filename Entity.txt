@@ -3,6 +3,8 @@
 	•	Orderdate
 	•	Amount
 	•	Status
+	•	Delivery time
+	
 2.	Veg Pizza
 	•	VPid
 	•	VPname
