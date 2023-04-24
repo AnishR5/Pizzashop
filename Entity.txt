@@ -3,7 +3,6 @@
 	•	Orderdate
 	•	Amount
 	•	Status
-	•	Delivery time
 	
 2.	Veg Pizza
 	•	VPid
@@ -26,4 +25,5 @@
 6.	Employee
 	•	Eid
 	•	Ename
+
 
